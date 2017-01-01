@@ -1,6 +1,16 @@
 #hackerrank
-Contains program files for HackerRank exercises.
+Contains my submission code for HackerRank challenges.
 
-## Linux Shell 
+## Bash
+Bash script solutions for the following challenges:
+
+    Looping and Skipping
+    The World of Numbers
+    Comparing Numbers
+    Getting Started on Conditionals
+    More on Conditionals
+    Arithmetic Operations
+    Compute the Average
 
 ## Python
+Python code solutions for challenges
