@@ -23,3 +23,11 @@ Contains my submission code for HackerRank challenges.
 		Cut #3
 		Cut #4
 		Cut #5
+
+## python
+* ### introduction
+
+	Python programs for the following challenges:
+	
+		Say "Hello, World!" With Python
+		Reading Raw Input
