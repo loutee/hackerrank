@@ -23,7 +23,7 @@ Bash script sample solutions for the following challenges:
 	Cut #6
 	Cut #7
 	Cut #8
-
+	Cut #9
 ## Python
 Python code solutions for challenges
 
