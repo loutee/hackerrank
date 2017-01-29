@@ -24,6 +24,8 @@ Bash script sample solutions for the following challenges:
 	Cut #7
 	Cut #8
 	Cut #9
+	Head of a Text File #1
+
 ## Python
 Python code solutions for challenges
 
