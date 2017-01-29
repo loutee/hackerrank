@@ -20,6 +20,7 @@ Bash script sample solutions for the following challenges:
 	Cut #3
 	Cut #4
 	Cut #5
+	Cut #6
 
 ## Python
 Python code solutions for challenges
