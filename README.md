@@ -30,6 +30,7 @@ Contains my submission code for HackerRank challenges.
 		Head of a Text File #1
 		Head of a Text File #2
 		Middle of a Text File
+		Tail of a Text File #1
 
 ## python
 * ### introduction
