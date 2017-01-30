@@ -28,6 +28,7 @@ Contains my submission code for HackerRank challenges.
 		Cut #8
 		Cut #9
 		Head of a Text File #1
+		Head of a Text File #2
 
 ## python
 * ### introduction
