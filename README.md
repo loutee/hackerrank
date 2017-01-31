@@ -37,7 +37,7 @@ Contains my submission code for HackerRank challenges.
 		'Tr' Command #3
 		Sort Command #1
 		Sort Command #2
-
+		Sort Command #3
 
 ## python
 * ### introduction
