@@ -1,0 +1,2 @@
+#!/bin/bash
+cat hello.txt | tr -d [a-z]
