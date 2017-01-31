@@ -34,6 +34,7 @@ Contains my submission code for HackerRank challenges.
 		Tail of a Text File #2
 		'Tr' Command #1
 		'Tr' Command #2
+		'Tr' Command #3
 
 ## python
 * ### introduction
