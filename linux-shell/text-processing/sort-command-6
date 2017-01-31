@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -nk2 -t$'\t' temps.txt
