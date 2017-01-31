@@ -32,6 +32,7 @@ Contains my submission code for HackerRank challenges.
 		Middle of a Text File
 		Tail of a Text File #1
 		Tail of a Text File #2
+		'Tr' Command #1
 
 ## python
 * ### introduction
