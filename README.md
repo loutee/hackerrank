@@ -1,7 +1,7 @@
 #hackerrank
 Contains my submission code for HackerRank challenges.
 
-## linux-terminal
+## linux-shell
 * ### bash
 
 	Bash script solutions for the following challenges:
