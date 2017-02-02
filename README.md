@@ -43,6 +43,7 @@ Contains my submission code for HackerRank challenges.
 		Sort Command #6
 		Sort Command #7
 		Uniq Command #1
+		Uniq Command #2
 
 ## python
 * ### introduction
