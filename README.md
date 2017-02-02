@@ -46,6 +46,7 @@ Contains my submission code for HackerRank challenges.
 		Uniq Command #2
 		Uniq Command #3
 		Uniq Command #4
+		Paste - 1
 
 ## python
 * ### introduction
