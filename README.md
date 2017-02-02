@@ -44,6 +44,7 @@ Contains my submission code for HackerRank challenges.
 		Sort Command #7
 		Uniq Command #1
 		Uniq Command #2
+		Uniq Command #3
 
 ## python
 * ### introduction

@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq -ic column2.txt | cut -b7-
