@@ -49,6 +49,7 @@ Contains my submission code for HackerRank challenges.
 		Paste - 1
 		Paste - 2
 		Paste - 3
+		Paste - 4
 
 ## python
 * ### introduction
