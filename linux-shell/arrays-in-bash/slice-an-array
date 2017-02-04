@@ -1,0 +1,8 @@
+#!/bin/bash
+file=( $(cat ncountries.txt) )
+for i in {3..7}
+do
+	result[i-3]=${file[i]}
+done
+
+echo ${result[@]}

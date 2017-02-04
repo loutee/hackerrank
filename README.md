@@ -56,6 +56,7 @@ Contains my submission code for HackerRank challenges.
 	Bash script example solutions for the following challenges:
 
 		Read in an Array
+		Slice an Array
 
 ## python
 * ### introduction
