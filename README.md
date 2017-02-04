@@ -4,7 +4,7 @@ Contains my submission code for HackerRank challenges.
 ## linux-shell
 * ### bash
 
-	Bash script solutions for the following challenges:
+	Bash script example solutions for the following challenges:
 
 		Looping and Skipping
 		The World of Numbers
@@ -16,7 +16,7 @@ Contains my submission code for HackerRank challenges.
 
 * ### text-processing
 
-	Bash script sample solutions for the following challenges:
+	Bash script example solutions for the following challenges:
 
 		Cut #1
 		Cut #2
@@ -50,6 +50,12 @@ Contains my submission code for HackerRank challenges.
 		Paste - 2
 		Paste - 3
 		Paste - 4
+
+* ### arrays-in-bash
+
+	Bash script example solutions for the following challenges:
+
+		Read in an Array
 
 ## python
 * ### introduction
