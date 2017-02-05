@@ -1,0 +1,4 @@
+#!/bin/bash
+file=( $(cat ncountries.txt) )
+result=("${file[@]}" "${file[@]}" "${file[@]}");
+echo ${result[@]} 

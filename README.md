@@ -58,6 +58,8 @@ Contains my submission code for HackerRank challenges.
 		Read in an Array
 		Slice an Array
 
+		Concatenate an Array with Itself
+
 ## python
 * ### introduction
 
