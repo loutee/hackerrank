@@ -60,6 +60,7 @@ Contains my submission code for HackerRank challenges.
 
 		Concatenate an Array with Itself
 		Display an Element of an Array
+		Count the Number of Elements in an Array
 
 ## python
 * ### introduction
