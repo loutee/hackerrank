@@ -59,6 +59,7 @@ Contains my submission code for HackerRank challenges.
 		Slice an Array
 
 		Concatenate an Array with Itself
+		Display an Element of an Array
 
 ## python
 * ### introduction
