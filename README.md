@@ -7,6 +7,7 @@ Contains my submission code for HackerRank challenges.
 	Java code example solutions for the following challenges:
 
 		Welcome to Java!
+		Java Stdin and Stdout I
 
 ## linux-shell
 * ### bash
