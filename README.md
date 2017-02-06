@@ -1,6 +1,13 @@
 #hackerrank
 Contains my submission code for HackerRank challenges.
 
+## java
+* ### introduction
+
+	Java code example solutions for the following challenges:
+
+		Welcome to Java!
+
 ## linux-shell
 * ### bash
 
