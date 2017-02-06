@@ -9,6 +9,7 @@ Contains my submission code for HackerRank challenges.
 		Welcome to Java!
 		Java Stdin and Stdout I
 		Java If-Else
+		Java Stdin and Stdout II
 
 ## linux-shell
 * ### bash
