@@ -12,6 +12,7 @@ Contains my submission code for HackerRank challenges.
 		Java Stdin and Stdout II
 
 		Java Loops I
+		Java Loops II
 
 ## linux-shell
 * ### bash
