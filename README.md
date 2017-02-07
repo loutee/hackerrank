@@ -27,6 +27,8 @@ Contains my submission code for HackerRank challenges.
 		Arithmetic Operations
 		Compute the Average
 
+		Java Datatypes
+
 * ### text-processing
 
 	Bash script example solutions for the following challenges:
