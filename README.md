@@ -11,6 +11,8 @@ Contains my submission code for HackerRank challenges.
 		Java If-Else
 		Java Stdin and Stdout II
 
+		Java Loops I
+
 ## linux-shell
 * ### bash
 
