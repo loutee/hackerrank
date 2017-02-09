@@ -13,6 +13,7 @@ Contains my submission code for HackerRank challenges.
 
 		Java Loops I
 		Java Loops II
+		Java End-of-File
 
 ## linux-shell
 * ### bash
