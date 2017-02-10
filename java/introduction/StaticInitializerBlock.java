@@ -1,7 +1,7 @@
 // Java Static Initializer Block
 import java.util.*;
 
-public class JavaStaticInitializerBlock {
+public class StaticInitializerBlock {
 
 	static int B;
 	static int H;

@@ -1,7 +1,7 @@
 // Java Loops 2
 import java.util.*;
 
-public class JavaLoops2 {
+public class Loops2 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

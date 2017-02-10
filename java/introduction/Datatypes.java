@@ -1,7 +1,7 @@
 // Java Datatypes
 import java.util.*;
 
-public class JavaDatatypes {
+public class Datatypes {
 
 	public static void main(String[] args) {
 		
