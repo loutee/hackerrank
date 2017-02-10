@@ -14,6 +14,7 @@ Contains my submission code for HackerRank challenges.
 		Java Loops I
 		Java Loops II
 		Java End-of-File
+		Java Static Initializer Block
 
 ## linux-shell
 * ### bash
