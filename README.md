@@ -17,6 +17,10 @@ Contains my submission code for HackerRank challenges.
 		Java Static Initializer Block
 		Java Int to String
 
+* ### strings
+
+	Java code example solutions for the following challenges:
+
 ## linux-shell
 * ### bash
 
