@@ -13,6 +13,7 @@ Contains my submission code for HackerRank challenges.
 
 		Java Loops I
 		Java Loops II
+		Java Datatypes
 		Java End-of-File
 		Java Static Initializer Block
 		Java Int to String
@@ -22,6 +23,7 @@ Contains my submission code for HackerRank challenges.
 	Java code example solutions for the following challenges:
 
 		Java Strings Introduction
+		Java Substring
 
 ## linux-shell
 * ### bash
@@ -35,8 +37,6 @@ Contains my submission code for HackerRank challenges.
 		More on Conditionals
 		Arithmetic Operations
 		Compute the Average
-
-		Java Datatypes
 
 * ### text-processing
 
