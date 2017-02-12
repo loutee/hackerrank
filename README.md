@@ -21,6 +21,8 @@ Contains my submission code for HackerRank challenges.
 
 	Java code example solutions for the following challenges:
 
+		Java Strings Introduction
+
 ## linux-shell
 * ### bash
 

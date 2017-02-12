@@ -21,7 +21,16 @@ public class StringsIntroduction {
 		}
 
 		// Capitalize first letter in A and B
-		System.out.println();
-		
+		System.out.print(Character.toUpperCase(A.charAt(0)));
+		for (int i=1; i<A.length(); i++) {
+			System.out.print(A.charAt(i));
+		}
+		System.out.print(" ");
+
+		System.out.print(Character.toUpperCase(B.charAt(0)));
+		for (int i=1; i<B.length(); i++) {
+			System.out.print(B.charAt(i));
+		}
+		System.out.println();	
 	}
 }
