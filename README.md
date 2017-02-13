@@ -25,6 +25,8 @@ Contains my submission code for HackerRank challenges.
 		Java Strings Introduction
 		Java Substring
 
+		Java String Reverse
+
 ## linux-shell
 * ### bash
 
