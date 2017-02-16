@@ -3,7 +3,7 @@
 import java.util.*;
 import java.util.regex.*;
 
-public class MatchingAnythingButNewline {
+public class AnythingButNewline {
 
 	public static void main(String[] args) {
 		

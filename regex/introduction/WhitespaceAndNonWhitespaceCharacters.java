@@ -1,16 +1,16 @@
-// Matching Digits & Non-Digit Characters
-// Matches pattern xxXxxXxxxx
-// 	Where x denotes a digit character
-// 		  X denotes a non-digit character
+// Matching Whitespace & Non-Whitespace Character
+// Matches pattern XXxXXxXX
+// 	Where x denotes whitespace characters
+// 		  X denotes non-whitespace characters
 import java.util.*;
 import java.util.regex.*;
 
-public class MatchingDigitAndNonDigitCharacters {
+public class WhitespaceAndNonWhitespaceCharacters {
 
 		public static void main(String[] args) {
 			
 			Regex_Test tester = new Regex_Test();
-			tester.checker("\\d\\d\\D\\d\\d\\D\\d\\d\\d\\d");
+			tester.checker("\\S\\S\\s\\S\\S\\s\\S\\S");
 		}
 }
 

@@ -2,7 +2,7 @@
 import java.util.*;
 import java.util.regex.*;
 
-public class MatchingSpecificString {
+public class SpecificString {
 
 	public static void main(String[] args) {
 		
