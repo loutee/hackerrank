@@ -104,5 +104,5 @@ Contains my submission code for HackerRank challenges.
 		Matching Specific String 
 		Matching Anything But a Newline
 		Matching Digits & Non-Digit Characters
-		Matching Whitespace & Non-Whitespace Characters
-
+		Matching Whitespace & Non-Whitespace Character
+		Matching Word & Non-Word Character

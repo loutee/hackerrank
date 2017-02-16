@@ -1,16 +1,16 @@
-// Matching Whitespace & Non-Whitespace Character
-// Matches pattern XXxXXxXX
-// 	Where x denotes whitespace characters
-// 		  X denotes non-whitespace characters
+// Matching Word & Non-Word Character
+// Matches pattern xxxXxxxxxxxxxxXxxx
+// 	Where x denotes any word character character
+// 		  X denotes any non-word character
 import java.util.*;
 import java.util.regex.*;
 
-public class WhitespaceAndNonWhitespaceCharacters {
+public class WordAndNonWordCharacter {
 
 		public static void main(String[] args) {
 			
 			Regex_Test tester = new Regex_Test();
-			tester.checker("\\S\\S\\s\\S\\S\\s\\S\\S");
+			tester.checker("\\w{3}\\W\\w{10}\\W\\w{3}");
 		}
 }
 
