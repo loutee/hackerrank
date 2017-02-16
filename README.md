@@ -113,3 +113,4 @@ Contains my submission code for HackerRank challenges.
 	Java code sample solutions for the following challenges:
 
 		Matching Specific Characters
+		Excluding Specific Characters
