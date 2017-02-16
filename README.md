@@ -107,3 +107,9 @@ Contains my submission code for HackerRank challenges.
 		Matching Whitespace & Non-Whitespace Character
 		Matching Word & Non-Word Character
 		Matching Start & End
+
+* ### character-class
+
+	Java code sample solutions for the following challenges:
+
+		Matching Specific Characters
