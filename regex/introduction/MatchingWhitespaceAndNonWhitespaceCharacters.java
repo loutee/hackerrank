@@ -1,12 +1,16 @@
+// Matching Whitespace & Non-Whitespace Character
+// Matches pattern XXxXXxXX
+// 	Where x denotes whitespace characters
+// 		  X denotes non-whitespace characters
 import java.util.*;
 import java.util.regex.*;
 
-public class MatchingWhitespaceAndNonWhitespaceCharacter {
+public class MatchingWhitespaceAndNonWhitespaceCharacters {
 
 		public static void main(String[] args) {
 			
 			Regex_Test tester = new Regex_Test();
-			tester.checker("");
+			tester.checker("\\S\\S\\s\\S\\S\\s\\S\\S");
 		}
 }
 
