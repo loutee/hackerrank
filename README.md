@@ -115,3 +115,7 @@ Contains my submission code for HackerRank challenges.
 		Matching Specific Characters
 		Excluding Specific Characters
 		Matching Character Ranges
+
+* ### repetitions
+
+	Java code sample solutions for the following challenges:
