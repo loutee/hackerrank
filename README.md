@@ -119,3 +119,5 @@ Contains my submission code for HackerRank challenges.
 * ### repetitions
 
 	Java code sample solutions for the following challenges:
+
+		Matching {x} Repetitions
