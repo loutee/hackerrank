@@ -121,3 +121,4 @@ Contains my submission code for HackerRank challenges.
 	Java code sample solutions for the following challenges:
 
 		Matching {x} Repetitions
+		Matching {x,y} Repetitions
