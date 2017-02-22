@@ -126,6 +126,10 @@ Contains my submission code for HackerRank challenges.
 		Matching One Or More Repetitions
 		Matching Ending Items
 
+* ### grouping-and-capturing
+
+	Java code sample solutions for the following challenges:
+
 * ### backreferences
 
 	Java code sample solutions for the following challenges:
