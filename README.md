@@ -125,3 +125,7 @@ Contains my submission code for HackerRank challenges.
 		Matching Zero Or More Repetitions
 		Matching One Or More Repetitions
 		Matching Ending Items
+
+* ### backreferences
+
+	Java code sample solutions for the following challenges:
