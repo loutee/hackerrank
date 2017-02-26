@@ -1,7 +1,7 @@
 <?php
-// Negative Lookahead
-// Match all characters not immediately followed by that same character
-$Regex_Pattern = '/(.)(?!\1)/';
+// Positive Lookbehind
+// Match all occurences of digits immediately preceded by an odd digit
+$Regex_Pattern = '/(?<=[13579])\d/';
 
 $handle = fopen ("php://stdin", "r");
 $Test_String = fgets($handle);

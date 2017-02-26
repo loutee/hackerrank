@@ -146,3 +146,7 @@ Contains my submission code for HackerRank challenges.
 * ### assertions
 
 	PHP code sample solutions for the following challenges:
+
+		Positive Lookahead
+		Negative Lookahead
+		Positive Lookbehind
