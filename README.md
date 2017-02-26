@@ -142,3 +142,7 @@ Contains my submission code for HackerRank challenges.
 		Backreferences To Failed Groups
 		Branch Reset Groups
 		Forward References
+
+* ### assertions
+
+	PHP code sample solutions for the following challenges:
