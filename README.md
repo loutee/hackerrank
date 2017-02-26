@@ -151,3 +151,6 @@ Contains my submission code for HackerRank challenges.
 		Negative Lookahead
 		Positive Lookbehind
 		Negative Lookbehind
+
+* ### applications
+
