@@ -97,6 +97,7 @@ Contains my submission code for HackerRank challenges.
 		Reading Raw Input
 		Python If-Else
 		Arithmetic Operators
+		Python: Division
 
 ## regex
 * ### introduction
