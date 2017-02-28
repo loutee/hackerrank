@@ -99,6 +99,7 @@ Contains my submission code for HackerRank challenges.
 		Arithmetic Operators
 		Python: Division
 		Loops
+		Write a Function
 
 ## regex
 * ### introduction
