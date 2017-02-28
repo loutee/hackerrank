@@ -98,6 +98,7 @@ Contains my submission code for HackerRank challenges.
 		Python If-Else
 		Arithmetic Operators
 		Python: Division
+		Loops
 
 ## regex
 * ### introduction
