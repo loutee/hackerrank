@@ -100,6 +100,7 @@ Contains my submission code for HackerRank challenges.
 		Python: Division
 		Loops
 		Write a Function
+		Print Function
 
 ## regex
 * ### introduction
