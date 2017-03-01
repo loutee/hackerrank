@@ -102,6 +102,10 @@ Contains my submission code for HackerRank challenges.
 		Write a Function
 		Print Function
 
+* ### numpy
+
+	Python programs for the following challenges:
+
 ## regex
 * ### introduction
 
