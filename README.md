@@ -102,7 +102,7 @@ Contains my submission code for HackerRank challenges.
 		Write a Function
 		Print Function
 
-* ### numpy
+* ### basic-data-types
 
 	Python programs for the following challenges:
 
