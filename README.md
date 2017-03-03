@@ -107,6 +107,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
 		Lists
+		Tuples
 
 ## regex
 * ### introduction
