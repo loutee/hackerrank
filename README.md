@@ -1,6 +1,14 @@
 #hackerrank
 Contains my submission code for HackerRank challenges.
 
+## algorithms
+* ### warmup
+
+    Code solutions for the following challenges:
+
+        Solve Me First
+        Simple Array Sum
+
 ## java
 * ### introduction
 
