@@ -8,6 +8,7 @@ Contains my submission code for HackerRank challenges.
 
         Solve Me First
         Simple Array Sum
+        Compare the Triplets
 
 ## java
 * ### introduction
