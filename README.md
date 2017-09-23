@@ -13,6 +13,7 @@ Contains my submission code for HackerRank challenges.
         Diagonal Difference
         Plus Minus
         Staircase
+        Mini Max Sum
 
 ## java
 * ### introduction
