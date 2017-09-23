@@ -9,6 +9,10 @@ Contains my submission code for HackerRank challenges.
         Solve Me First
         Simple Array Sum
         Compare the Triplets
+        A Very Big Sum
+        Diagonal Difference
+        Plus Minus
+        Staircase
 
 ## java
 * ### introduction
