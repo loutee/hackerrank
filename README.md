@@ -14,6 +14,7 @@ Contains my submission code for HackerRank challenges.
         Plus Minus
         Staircase
         Mini Max Sum
+        Birthday Cake Candles
 
 ## java
 * ### introduction
