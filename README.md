@@ -15,6 +15,7 @@ Contains my submission code for HackerRank challenges.
         Staircase
         Mini Max Sum
         Birthday Cake Candles
+        Time Conversion
 
 ## java
 * ### introduction
