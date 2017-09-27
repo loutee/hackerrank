@@ -22,6 +22,7 @@ Contains my submission code for HackerRank challenges.
     Code solutions for the following challenges:
 
         Grading Students
+        Apple and Orange
 
 ## java
 * ### introduction
