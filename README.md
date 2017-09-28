@@ -23,6 +23,7 @@ Contains my submission code for HackerRank challenges.
 
         Grading Students
         Apple and Orange
+        Kangaroo
 
 ## java
 * ### introduction
