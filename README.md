@@ -25,6 +25,8 @@ Contains my submission code for HackerRank challenges.
         Apple and Orange
         Kangaroo
 
+        Breaking the Records
+
 ## java
 * ### introduction
 
