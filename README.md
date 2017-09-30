@@ -26,6 +26,7 @@ Contains my submission code for HackerRank challenges.
         Kangaroo
 
         Breaking the Records
+        Birthday Chocolate
 
 ## java
 * ### introduction
