@@ -28,6 +28,7 @@ Contains my submission code for HackerRank challenges.
         Breaking the Records
         Birthday Chocolate
         Divisible Sum Pairs
+        Migratory Birds
 
 ## java
 * ### introduction
