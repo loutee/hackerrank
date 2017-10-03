@@ -31,6 +31,7 @@ Contains my submission code for HackerRank challenges.
         Migratory Birds
         Day of the Programmer
         Bon Appetit
+        Sock Merchant
 
 ## java
 * ### introduction
