@@ -30,6 +30,7 @@ Contains my submission code for HackerRank challenges.
         Divisible Sum Pairs
         Migratory Birds
         Day of the Programmer
+        Bon Appetit
 
 ## java
 * ### introduction
