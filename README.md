@@ -29,6 +29,7 @@ Contains my submission code for HackerRank challenges.
         Birthday Chocolate
         Divisible Sum Pairs
         Migratory Birds
+        Day of the Programmer
 
 ## java
 * ### introduction
