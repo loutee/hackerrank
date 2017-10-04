@@ -33,6 +33,7 @@ Contains my submission code for HackerRank challenges.
         Bon Appetit
         Sock Merchant
         Drawing Book
+        Counting Valleys
 
 ## java
 * ### introduction
@@ -125,7 +126,7 @@ Contains my submission code for HackerRank challenges.
 * ### introduction
 
 	Python programs for the following challenges:
-	
+
 		Say "Hello, World!" With Python
 		Reading Raw Input
 		Python If-Else
@@ -147,7 +148,7 @@ Contains my submission code for HackerRank challenges.
 
 	Java code sample solutions for the following challenges:
 
-		Matching Specific String 
+		Matching Specific String
 		Matching Anything But a Newline
 		Matching Digits & Non-Digit Characters
 		Matching Whitespace & Non-Whitespace Character
