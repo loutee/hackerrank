@@ -4,7 +4,7 @@ Contains my submission code for HackerRank challenges.
 ## algorithms
 * ### warmup
 
-    Code solutions for the following challenges:
+    Python 2 code solutions for the following challenges:
 
         Solve Me First
         Simple Array Sum
@@ -19,7 +19,7 @@ Contains my submission code for HackerRank challenges.
 
 * ### implementation
 
-    Code solutions for the following challenges:
+    Python 2 code solutions for the following challenges:
 
         Grading Students
         Apple and Orange
@@ -34,6 +34,8 @@ Contains my submission code for HackerRank challenges.
         Sock Merchant
         Drawing Book
         Counting Valleys
+        Electronics Shop
+        Cats and a Mouse
 
 ## java
 * ### introduction
