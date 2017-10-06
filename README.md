@@ -37,6 +37,8 @@ Contains my submission code for HackerRank challenges.
         Electronics Shop
         Cats and a Mouse
 
+        Picking Numbers
+
 ## java
 * ### introduction
 
