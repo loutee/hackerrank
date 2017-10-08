@@ -39,6 +39,8 @@ Contains my submission code for HackerRank challenges.
 
         Picking Numbers
 
+        The Hurdle Race
+
 ## java
 * ### introduction
 
