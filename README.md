@@ -40,6 +40,7 @@ Contains my submission code for HackerRank challenges.
         Picking Numbers
 
         The Hurdle Race
+        Designer PDF Viewer
 
 ## java
 * ### introduction
