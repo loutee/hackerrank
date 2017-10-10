@@ -42,6 +42,7 @@ Contains my submission code for HackerRank challenges.
         The Hurdle Race
         Designer PDF Viewer
         Utopian Tree
+        Angry Professor
 
 ## java
 * ### introduction
