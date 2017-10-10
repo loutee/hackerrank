@@ -44,6 +44,7 @@ Contains my submission code for HackerRank challenges.
         Utopian Tree
         Angry Professor
         Beautiful Days at the Movies
+        Viral Advertising
 
 ## java
 * ### introduction
