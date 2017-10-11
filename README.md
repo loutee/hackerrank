@@ -46,6 +46,7 @@ Contains my submission code for HackerRank challenges.
         Beautiful Days at the Movies
         Viral Advertising
         Save the Prisoner!
+        Circular Array Rotation
 
 ## java
 * ### introduction
