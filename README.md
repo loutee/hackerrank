@@ -48,6 +48,8 @@ Contains my submission code for HackerRank challenges.
         Save the Prisoner!
         Circular Array Rotation
 
+        Jumping on the Clouds: Revisited
+
 ## java
 * ### introduction
 
