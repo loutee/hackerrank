@@ -50,6 +50,7 @@ Contains my submission code for HackerRank challenges.
 
         Jumping on the Clouds: Revisited
         Find Digits
+        Extra Long Factorials
 
 ## java
 * ### introduction
