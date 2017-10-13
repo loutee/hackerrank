@@ -52,6 +52,8 @@ Contains my submission code for HackerRank challenges.
         Find Digits
         Extra Long Factorials
 
+        Sherlock and Squares
+
 ## java
 * ### introduction
 
