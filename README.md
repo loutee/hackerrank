@@ -49,6 +49,7 @@ Contains my submission code for HackerRank challenges.
         Circular Array Rotation
 
         Jumping on the Clouds: Revisited
+        Find Digits
 
 ## java
 * ### introduction
