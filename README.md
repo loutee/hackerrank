@@ -54,6 +54,8 @@ Contains my submission code for HackerRank challenges.
 
         Sherlock and Squares
 
+        Cut the Sticks
+
 ## java
 * ### introduction
 
