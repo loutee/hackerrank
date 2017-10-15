@@ -57,6 +57,7 @@ Contains my submission code for HackerRank challenges.
         Cut the Sticks
 
         Repeated String
+        Jumping on the Clouds
 
 ## java
 * ### introduction
