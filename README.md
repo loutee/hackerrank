@@ -56,6 +56,8 @@ Contains my submission code for HackerRank challenges.
 
         Cut the Sticks
 
+        Repeated String
+
 ## java
 * ### introduction
 
