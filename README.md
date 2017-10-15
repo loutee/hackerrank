@@ -58,6 +58,7 @@ Contains my submission code for HackerRank challenges.
 
         Repeated String
         Jumping on the Clouds
+        Equalize the Array
 
 ## java
 * ### introduction
