@@ -61,6 +61,7 @@ Contains my submission code for HackerRank challenges.
         Equalize the Array
 
         ACM ICPC Team
+        Taum and B'day
 
 ## java
 * ### introduction
