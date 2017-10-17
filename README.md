@@ -63,6 +63,8 @@ Contains my submission code for HackerRank challenges.
         ACM ICPC Team
         Taum and B'day
 
+        Encryption
+
 ## java
 * ### introduction
 
