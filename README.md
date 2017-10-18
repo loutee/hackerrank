@@ -65,6 +65,8 @@ Contains my submission code for HackerRank challenges.
 
         Encryption
 
+        Modified Kaprekar Numbers
+
 ## java
 * ### introduction
 
