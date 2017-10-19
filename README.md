@@ -67,6 +67,8 @@ Contains my submission code for HackerRank challenges.
 
         Modified Kaprekar Numbers
 
+        Minimum Distances
+
 ## java
 * ### introduction
 
