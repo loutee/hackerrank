@@ -68,6 +68,7 @@ Contains my submission code for HackerRank challenges.
         Modified Kaprekar Numbers
 
         Minimum Distances
+        The Time in Words
 
 ## java
 * ### introduction
