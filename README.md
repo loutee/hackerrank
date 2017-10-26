@@ -79,6 +79,7 @@ Contains my submission code for HackerRank challenges.
 
         Caesar Cipher
         Mars Exploration
+        HackerRank in a String!
 
 ## java
 * ### introduction
