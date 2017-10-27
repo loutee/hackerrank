@@ -81,6 +81,7 @@ Contains my submission code for HackerRank challenges.
         Mars Exploration
         HackerRank in a String!
         Pangrams
+        Weighted Uniform Strings
 
 ## java
 * ### introduction
