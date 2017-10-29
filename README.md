@@ -83,6 +83,8 @@ Contains my submission code for HackerRank challenges.
         Pangrams
         Weighted Uniform Strings
 
+        Funny Strings
+
 ## java
 * ### introduction
 
