@@ -74,7 +74,9 @@ Contains my submission code for HackerRank challenges.
 
 * ### strings
 
+    Python 2 code solutions for the following challenges:
 
+        Super Reduced String
         CamelCase
 
         Caesar Cipher
