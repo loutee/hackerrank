@@ -86,6 +86,7 @@ Contains my submission code for HackerRank challenges.
         Weighted Uniform Strings
 
         Funny Strings
+        Gemstones
 
 ## java
 * ### introduction
