@@ -87,6 +87,7 @@ Contains my submission code for HackerRank challenges.
 
         Funny Strings
         Gemstones
+        Alternating Characters
 
 ## java
 * ### introduction
