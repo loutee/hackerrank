@@ -89,6 +89,7 @@ Contains my submission code for HackerRank challenges.
         Gemstones
         Alternating Characters
         Beautiful Binary String
+        The Love-Letter Mystery
 
 ## java
 * ### introduction
