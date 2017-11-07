@@ -91,6 +91,8 @@ Contains my submission code for HackerRank challenges.
         Beautiful Binary String
         The Love-Letter Mystery
 
+        Palindrome Index
+
 ## java
 * ### introduction
 
