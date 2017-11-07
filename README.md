@@ -92,6 +92,7 @@ Contains my submission code for HackerRank challenges.
         The Love-Letter Mystery
 
         Palindrome Index
+        Anagram
 
 ## java
 * ### introduction
