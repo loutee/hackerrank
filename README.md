@@ -94,6 +94,7 @@ Contains my submission code for HackerRank challenges.
         Palindrome Index
         Anagram
         Making Anagrams
+        Game of Thrones - I
 
 ## java
 * ### introduction
