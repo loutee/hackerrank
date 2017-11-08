@@ -93,6 +93,7 @@ Contains my submission code for HackerRank challenges.
 
         Palindrome Index
         Anagram
+        Making Anagrams
 
 ## java
 * ### introduction
