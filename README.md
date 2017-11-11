@@ -97,12 +97,13 @@ Contains my submission code for HackerRank challenges.
         Game of Thrones - I
         Two Strings
 
-* ### warmup
+* ### sorting
 
     Python 2 code solutions for the following challenges:
 
 
         Intro to Tutorial Challenges
+        Insertion Sort - Part 1
 
 ## java
 * ### introduction
