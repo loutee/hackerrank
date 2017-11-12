@@ -104,6 +104,7 @@ Contains my submission code for HackerRank challenges.
 
         Intro to Tutorial Challenges
         Insertion Sort - Part 1
+        Insertion Sort - Part 2
 
 ## java
 * ### introduction
