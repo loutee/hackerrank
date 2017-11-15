@@ -106,6 +106,7 @@ Contains my submission code for HackerRank challenges.
         Insertion Sort - Part 1
         Insertion Sort - Part 2
         Correctness and the Loop Invariant
+        Running Time of Algorithms
 
 ## java
 * ### introduction
