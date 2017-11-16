@@ -108,6 +108,7 @@ Contains my submission code for HackerRank challenges.
         Correctness and the Loop Invariant
         Running Time of Algorithms
         Quicksort 1 - Partition
+        Counting Sort 1
 
 ## java
 * ### introduction
