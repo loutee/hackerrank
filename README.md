@@ -109,6 +109,7 @@ Contains my submission code for HackerRank challenges.
         Running Time of Algorithms
         Quicksort 1 - Partition
         Counting Sort 1
+        Counting Sort 2
 
 ## java
 * ### introduction
