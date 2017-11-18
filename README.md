@@ -110,7 +110,7 @@ Contains my submission code for HackerRank challenges.
         Quicksort 1 - Partition
         Counting Sort 1
         Counting Sort 2
-
+        The Full Counting Sort
         Closest Numbers
 
 ## java
