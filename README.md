@@ -113,6 +113,14 @@ Contains my submission code for HackerRank challenges.
         The Full Counting Sort
         Closest Numbers
 
+* ### search
+
+    Python 2 code solutions for the following challenges:
+
+
+
+        Ice Cream Parlor
+
 ## java
 * ### introduction
 
