@@ -123,6 +123,7 @@ Contains my submission code for HackerRank challenges.
 
 
         Missing Numbers
+        Pairs
 
 ## java
 * ### introduction
