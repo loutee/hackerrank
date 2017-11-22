@@ -124,6 +124,7 @@ Contains my submission code for HackerRank challenges.
 
         Missing Numbers
         Pairs
+        Sherlock and Array
 
 ## java
 * ### introduction
