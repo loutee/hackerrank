@@ -126,6 +126,12 @@ Contains my submission code for HackerRank challenges.
         Pairs
         Sherlock and Array
 
+* ### greedy
+
+    Python 2 code solutions for the following challenges:
+
+        Minimum Absolute Difference in an Array
+
 ## java
 * ### introduction
 
