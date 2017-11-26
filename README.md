@@ -75,6 +75,7 @@ Contains my submission code for HackerRank challenges.
         Flatland Space Stations
 
         Cavity Map
+        Manasa and Stones
 
 * ### strings
 
