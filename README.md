@@ -77,6 +77,8 @@ Contains my submission code for HackerRank challenges.
         Cavity Map
         Manasa and Stones
 
+        Happy Ladybugs
+
 * ### strings
 
     Python 2 code solutions for the following challenges:
