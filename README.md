@@ -78,6 +78,7 @@ Contains my submission code for HackerRank challenges.
         Manasa and Stones
 
         Happy Ladybugs
+        Strange Counter
 
 * ### strings
 
