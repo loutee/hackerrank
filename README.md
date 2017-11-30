@@ -105,6 +105,7 @@ Contains my submission code for HackerRank challenges.
         Game of Thrones - I
         Two Strings
         String Construction
+        Sherlock and the Valid String
 
 * ### sorting
 
