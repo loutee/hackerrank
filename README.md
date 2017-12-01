@@ -141,6 +141,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Minimum Absolute Difference in an Array
+        Marc's Cakewalk
 
 ## java
 * ### introduction
