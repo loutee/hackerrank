@@ -143,6 +143,7 @@ Contains my submission code for HackerRank challenges.
         Minimum Absolute Difference in an Array
         Marc's Cakewalk
         Grid Challenge
+        Luck Balance
 
 ## java
 * ### introduction
