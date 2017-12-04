@@ -145,6 +145,12 @@ Contains my submission code for HackerRank challenges.
         Grid Challenge
         Luck Balance
 
+
+
+
+
+        Mark and Toys
+
 ## java
 * ### introduction
 
