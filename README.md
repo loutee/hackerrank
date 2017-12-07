@@ -151,6 +151,7 @@ Contains my submission code for HackerRank challenges.
 
         Mark and Toys
         Greedy Florist
+        Max Min
 
 ## java
 * ### introduction
