@@ -153,6 +153,7 @@ Contains my submission code for HackerRank challenges.
         Greedy Florist
         Max Min
         Jim and the Orders
+        Permuting Two Arrays
 
 ## java
 * ### introduction
