@@ -146,7 +146,7 @@ Contains my submission code for HackerRank challenges.
         Luck Balance
 
 
-
+        Sherlock and the Beast
         Priyanka and Toys
 
         Mark and Toys
