@@ -155,6 +155,13 @@ Contains my submission code for HackerRank challenges.
         Jim and the Orders
         Permuting Two Arrays
 
+* ### bit-manipulation
+
+    Python 2 code solutions for the following challenges:
+
+        Lonely Integer
+
+
 ## java
 * ### introduction
 
