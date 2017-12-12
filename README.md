@@ -160,6 +160,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Lonely Integer
+        Maximizing XOR
 
 
 ## java
