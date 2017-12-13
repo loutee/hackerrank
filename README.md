@@ -161,6 +161,7 @@ Contains my submission code for HackerRank challenges.
 
         Lonely Integer
         Maximizing XOR
+        Counter Game
 
 
 ## java
