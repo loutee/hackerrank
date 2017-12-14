@@ -163,6 +163,7 @@ Contains my submission code for HackerRank challenges.
         Maximizing XOR
         Counter Game
 
+        Sum vs XOR
 
 ## java
 * ### introduction
