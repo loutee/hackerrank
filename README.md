@@ -165,6 +165,8 @@ Contains my submission code for HackerRank challenges.
 
         Sum vs XOR
 
+        Flipping bits
+
 ## java
 * ### introduction
 
