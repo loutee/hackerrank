@@ -167,6 +167,8 @@ Contains my submission code for HackerRank challenges.
 
         Flipping bits
 
+        Sansa and XOR
+
 ## java
 * ### introduction
 
