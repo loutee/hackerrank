@@ -276,6 +276,7 @@ Contains my submission code for HackerRank challenges.
 
 		Lists
 		Tuples
+        List Comprehensions
 
 ## regex
 * ### introduction
