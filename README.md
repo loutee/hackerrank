@@ -278,6 +278,7 @@ Contains my submission code for HackerRank challenges.
 		Tuples
         List Comprehensions
         Find the Second Largest Number
+        Nested Lists
 
 ## regex
 * ### introduction
