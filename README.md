@@ -277,6 +277,7 @@ Contains my submission code for HackerRank challenges.
 		Lists
 		Tuples
         List Comprehensions
+        Find the Second Largest Number
 
 ## regex
 * ### introduction
