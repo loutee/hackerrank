@@ -279,6 +279,7 @@ Contains my submission code for HackerRank challenges.
         List Comprehensions
         Find the Second Largest Number
         Nested Lists
+        Finding the percentage
 
 ## regex
 * ### introduction
