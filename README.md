@@ -287,6 +287,7 @@ Contains my submission code for HackerRank challenges.
 
         sWAP cASE
         String Split and Join
+        What's Your Name?
 
 ## regex
 * ### introduction
