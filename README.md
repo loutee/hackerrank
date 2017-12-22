@@ -281,6 +281,12 @@ Contains my submission code for HackerRank challenges.
         Nested Lists
         Finding the percentage
 
+* ### strings
+
+	Python programs for the following challenges:
+
+        sWAP cASE
+
 ## regex
 * ### introduction
 
