@@ -286,6 +286,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
         sWAP cASE
+        String Split and Join
 
 ## regex
 * ### introduction
