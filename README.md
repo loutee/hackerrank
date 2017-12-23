@@ -291,6 +291,7 @@ Contains my submission code for HackerRank challenges.
         Mutations
         Find a string
         String Validators
+        Text Alignment
 
 ## regex
 * ### introduction
