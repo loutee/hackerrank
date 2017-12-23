@@ -289,6 +289,7 @@ Contains my submission code for HackerRank challenges.
         String Split and Join
         What's Your Name?
         Mutations
+        Find a string
 
 ## regex
 * ### introduction
