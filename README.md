@@ -290,6 +290,7 @@ Contains my submission code for HackerRank challenges.
         What's Your Name?
         Mutations
         Find a string
+        String Validators
 
 ## regex
 * ### introduction
