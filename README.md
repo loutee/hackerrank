@@ -293,6 +293,7 @@ Contains my submission code for HackerRank challenges.
         String Validators
         Text Alignment
         Text Wrap
+        Designer Door Mat
 
 ## regex
 * ### introduction
