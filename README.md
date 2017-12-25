@@ -292,6 +292,7 @@ Contains my submission code for HackerRank challenges.
         Find a string
         String Validators
         Text Alignment
+        Text Wrap
 
 ## regex
 * ### introduction
