@@ -294,6 +294,7 @@ Contains my submission code for HackerRank challenges.
         Text Alignment
         Text Wrap
         Designer Door Mat
+        String Formatting
 
 ## regex
 * ### introduction
