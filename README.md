@@ -295,6 +295,7 @@ Contains my submission code for HackerRank challenges.
         Text Wrap
         Designer Door Mat
         String Formatting
+        Alphabet Rangoli
 
 ## regex
 * ### introduction
