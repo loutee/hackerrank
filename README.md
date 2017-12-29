@@ -296,6 +296,7 @@ Contains my submission code for HackerRank challenges.
         Designer Door Mat
         String Formatting
         Alphabet Rangoli
+        Capitalize!
 
 ## regex
 * ### introduction
