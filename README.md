@@ -298,6 +298,8 @@ Contains my submission code for HackerRank challenges.
         Alphabet Rangoli
         Capitalize!
 
+        Merge the Tools!
+
 ## regex
 * ### introduction
 
