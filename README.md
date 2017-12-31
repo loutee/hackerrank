@@ -305,6 +305,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
         Introduction to Sets
+        Symmetric Difference
 
 ## regex
 * ### introduction
