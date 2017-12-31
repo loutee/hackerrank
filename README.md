@@ -308,6 +308,7 @@ Contains my submission code for HackerRank challenges.
         Symmetric Difference
         No Idea!
         Set .add()
+        Set .discard(), .remove(), & .pop()
 
 ## regex
 * ### introduction
