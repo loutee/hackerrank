@@ -300,6 +300,12 @@ Contains my submission code for HackerRank challenges.
 
         Merge the Tools!
 
+* ### sets
+
+	Python programs for the following challenges:
+
+        Introduction to Sets
+
 ## regex
 * ### introduction
 
