@@ -312,6 +312,7 @@ Contains my submission code for HackerRank challenges.
         Set .union() Operation
         Set .intersection() Operation
         Set .difference() Operation
+        Set .symmetric_difference() Operation
 
 ## regex
 * ### introduction
