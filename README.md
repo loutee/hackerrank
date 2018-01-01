@@ -310,6 +310,7 @@ Contains my submission code for HackerRank challenges.
         Set .add()
         Set .discard(), .remove(), & .pop()
         Set .union() Operation
+        Set .intersection() Operation
 
 ## regex
 * ### introduction
