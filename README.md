@@ -311,6 +311,7 @@ Contains my submission code for HackerRank challenges.
         Set .discard(), .remove(), & .pop()
         Set .union() Operation
         Set .intersection() Operation
+        Set .difference() Operation
 
 ## regex
 * ### introduction
