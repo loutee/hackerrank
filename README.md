@@ -314,6 +314,7 @@ Contains my submission code for HackerRank challenges.
         Set .difference() Operation
         Set .symmetric_difference() Operation
         Set Mutations
+        The Captain's Room
 
 ## regex
 * ### introduction
