@@ -316,6 +316,7 @@ Contains my submission code for HackerRank challenges.
         Set Mutations
         The Captain's Room
         Check Subset
+        Check Strict Superset
 
 ## regex
 * ### introduction
