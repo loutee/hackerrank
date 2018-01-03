@@ -315,6 +315,7 @@ Contains my submission code for HackerRank challenges.
         Set .symmetric_difference() Operation
         Set Mutations
         The Captain's Room
+        Check Subset
 
 ## regex
 * ### introduction
