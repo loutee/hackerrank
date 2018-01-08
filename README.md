@@ -325,6 +325,7 @@ Contains my submission code for HackerRank challenges.
         Polar Coordinates
         Find Angle MBC
         Triangle Quest 2
+        Mod Divmod
 
 ## regex
 * ### introduction
