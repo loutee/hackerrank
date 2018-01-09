@@ -326,6 +326,7 @@ Contains my submission code for HackerRank challenges.
         Find Angle MBC
         Triangle Quest 2
         Mod Divmod
+        Power - Mod Power
 
 ## regex
 * ### introduction
