@@ -327,6 +327,7 @@ Contains my submission code for HackerRank challenges.
         Triangle Quest 2
         Mod Divmod
         Power - Mod Power
+        Integers Come In All Sizes
 
 ## regex
 * ### introduction
