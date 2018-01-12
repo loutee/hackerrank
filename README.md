@@ -328,6 +328,7 @@ Contains my submission code for HackerRank challenges.
         Mod Divmod
         Power - Mod Power
         Integers Come In All Sizes
+        Triangle Quest
 
 ## regex
 * ### introduction
