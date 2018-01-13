@@ -330,6 +330,12 @@ Contains my submission code for HackerRank challenges.
         Integers Come In All Sizes
         Triangle Quest
 
+* ### itertools
+
+	Python programs for the following challenges:
+
+        itertools.product()
+
 ## regex
 * ### introduction
 
