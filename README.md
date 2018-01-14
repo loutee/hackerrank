@@ -335,6 +335,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
         itertools.product()
+        itertools.permutations()
 
 ## regex
 * ### introduction
