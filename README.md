@@ -340,6 +340,14 @@ Contains my submission code for HackerRank challenges.
         itertools.combinations_with_replacement()
         Compress the String!
 
+
+
+* ### itertools
+
+	Python programs for the following challenges:
+
+        collections.Counter()
+
 ## regex
 * ### introduction
 
