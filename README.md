@@ -347,6 +347,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
         collections.Counter()
+        DefaultDict Tutorial
 
 ## regex
 * ### introduction
