@@ -342,12 +342,13 @@ Contains my submission code for HackerRank challenges.
 
 
 
-* ### itertools
+* ### collections
 
 	Python programs for the following challenges:
 
         collections.Counter()
         DefaultDict Tutorial
+        Collections.namedtuple()
 
 ## regex
 * ### introduction
