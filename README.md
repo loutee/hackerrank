@@ -349,6 +349,7 @@ Contains my submission code for HackerRank challenges.
         collections.Counter()
         DefaultDict Tutorial
         Collections.namedtuple()
+        Collections.OrderedDict()
 
 ## regex
 * ### introduction
