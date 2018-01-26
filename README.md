@@ -350,6 +350,7 @@ Contains my submission code for HackerRank challenges.
         DefaultDict Tutorial
         Collections.namedtuple()
         Collections.OrderedDict()
+        Word Order
 
 ## regex
 * ### introduction
