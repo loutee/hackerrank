@@ -351,6 +351,7 @@ Contains my submission code for HackerRank challenges.
         Collections.namedtuple()
         Collections.OrderedDict()
         Word Order
+        Collections.deque()
 
 ## regex
 * ### introduction
