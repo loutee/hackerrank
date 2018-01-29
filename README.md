@@ -355,6 +355,12 @@ Contains my submission code for HackerRank challenges.
         Piling Up!
         Company Logo
 
+* ### data-and-time
+
+	Python programs for the following challenges:
+
+        Calendar Module
+
 ## regex
 * ### introduction
 
