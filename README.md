@@ -361,6 +361,13 @@ Contains my submission code for HackerRank challenges.
 
         Calendar Module
 
+
+* ### errors-and-exceptions
+
+	Python programs for the following challenges:
+
+        Exceptions
+
 ## regex
 * ### introduction
 
