@@ -367,6 +367,7 @@ Contains my submission code for HackerRank challenges.
 	Python programs for the following challenges:
 
         Exceptions
+        Incorrect Regex
 
 ## regex
 * ### introduction
