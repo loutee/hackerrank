@@ -369,6 +369,14 @@ Contains my submission code for HackerRank challenges.
         Exceptions
         Incorrect Regex
 
+* ### classes
+
+* ### built-ins
+
+	Python programs for the following challenges:
+
+        Zipped!
+
 ## regex
 * ### introduction
 
