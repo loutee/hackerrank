@@ -379,6 +379,7 @@ Contains my submission code for HackerRank challenges.
         Input()
         Python Evaluation
         Athlete Sort
+        Any or All
 
 ## regex
 * ### introduction
