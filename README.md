@@ -381,6 +381,13 @@ Contains my submission code for HackerRank challenges.
         Athlete Sort
         Any or All
 
+
+* ### python-functionals
+
+    Python 2 code solutions for the following challenges:
+
+        Map and Lambda Function
+
 ## regex
 * ### introduction
 
