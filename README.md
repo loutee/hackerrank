@@ -387,6 +387,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Map and Lambda Function
+        Validating Email Addresses With a Filter
 
 ## regex
 * ### introduction
