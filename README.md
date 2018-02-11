@@ -390,6 +390,12 @@ Contains my submission code for HackerRank challenges.
         Validating Email Addresses With a Filter
         Reduce Function
 
+* ### regex-and-parsing
+
+    Python 2 code solutions for the following challenges:
+
+        Detect Floating Point Number
+
 ## regex
 * ### introduction
 
