@@ -395,6 +395,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Detect Floating Point Number
+        Re.split()
 
 ## regex
 * ### introduction
