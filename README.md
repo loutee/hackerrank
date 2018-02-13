@@ -396,6 +396,7 @@ Contains my submission code for HackerRank challenges.
 
         Detect Floating Point Number
         Re.split()
+        Group(), Groups(), & Groupdict()
 
 ## regex
 * ### introduction
