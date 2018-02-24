@@ -399,6 +399,7 @@ Contains my submission code for HackerRank challenges.
         Group(), Groups(), & Groupdict()
         Re.findall() & Re.finditer()
         Re.start() & Re.end()
+        Regex Substitution
 
 ## regex
 * ### introduction
