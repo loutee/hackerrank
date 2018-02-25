@@ -400,6 +400,7 @@ Contains my submission code for HackerRank challenges.
         Re.findall() & Re.finditer()
         Re.start() & Re.end()
         Regex Substitution
+        Validating Roman Numerals
 
 ## regex
 * ### introduction
