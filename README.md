@@ -402,6 +402,7 @@ Contains my submission code for HackerRank challenges.
         Regex Substitution
         Validating Roman Numerals
         Validating phone numbers
+        Validating and Parsing Email Addresses
 
 ## regex
 * ### introduction
