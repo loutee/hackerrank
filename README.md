@@ -401,6 +401,7 @@ Contains my submission code for HackerRank challenges.
         Re.start() & Re.end()
         Regex Substitution
         Validating Roman Numerals
+        Validating phone numbers
 
 ## regex
 * ### introduction
