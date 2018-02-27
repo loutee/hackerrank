@@ -403,6 +403,7 @@ Contains my submission code for HackerRank challenges.
         Validating Roman Numerals
         Validating phone numbers
         Validating and Parsing Email Addresses
+        Hex Color Code
 
 ## regex
 * ### introduction
