@@ -404,6 +404,7 @@ Contains my submission code for HackerRank challenges.
         Validating phone numbers
         Validating and Parsing Email Addresses
         Hex Color Code
+        HTML Parser - Part 1
 
 ## regex
 * ### introduction
