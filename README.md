@@ -406,6 +406,7 @@ Contains my submission code for HackerRank challenges.
         Hex Color Code
         HTML Parser - Part 1
         HTML Parser - Part 2
+        Detect HTML Tags, Attributes and Attribute Values
 
 ## regex
 * ### introduction
