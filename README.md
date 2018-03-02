@@ -405,6 +405,7 @@ Contains my submission code for HackerRank challenges.
         Validating and Parsing Email Addresses
         Hex Color Code
         HTML Parser - Part 1
+        HTML Parser - Part 2
 
 ## regex
 * ### introduction
