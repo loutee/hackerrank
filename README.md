@@ -409,6 +409,7 @@ Contains my submission code for HackerRank challenges.
         Detect HTML Tags, Attributes and Attribute Values
         Validating UID
         Validating Credit Card Numbers
+        Validating Postal Codes
 
 ## regex
 * ### introduction
