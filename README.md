@@ -410,6 +410,7 @@ Contains my submission code for HackerRank challenges.
         Validating UID
         Validating Credit Card Numbers
         Validating Postal Codes
+        Matrix Script
 
 ## regex
 * ### introduction
