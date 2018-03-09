@@ -412,6 +412,12 @@ Contains my submission code for HackerRank challenges.
         Validating Postal Codes
         Matrix Script
 
+* ### xml
+
+    Python 2 code solutions for the following challenges:
+
+        XML 1 - Find the Score
+
 ## regex
 * ### introduction
 
