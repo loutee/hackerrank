@@ -417,6 +417,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         XML 1 - Find the Score
+        XML2 - Find the Maximum Depth
 
 ## regex
 * ### introduction
