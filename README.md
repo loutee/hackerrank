@@ -419,6 +419,12 @@ Contains my submission code for HackerRank challenges.
         XML 1 - Find the Score
         XML2 - Find the Maximum Depth
 
+* ### closures-and-decorators
+
+    Python 2 code solutions for the following challenges:
+
+        Standardize Mobile Number Using Decorators
+
 ## regex
 * ### introduction
 
