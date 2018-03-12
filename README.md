@@ -424,6 +424,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Standardize Mobile Number Using Decorators
+        Decorators 2 - Name Directory
 
 ## regex
 * ### introduction
