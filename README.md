@@ -426,6 +426,12 @@ Contains my submission code for HackerRank challenges.
         Standardize Mobile Number Using Decorators
         Decorators 2 - Name Directory
 
+* ### numpy
+
+    Python 2 code solutions for the following challenges:
+
+        Arrays
+
 ## regex
 * ### introduction
 
