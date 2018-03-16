@@ -431,6 +431,7 @@ Contains my submission code for HackerRank challenges.
     Python 2 code solutions for the following challenges:
 
         Arrays
+        Shape and Reshape
 
 ## regex
 * ### introduction
