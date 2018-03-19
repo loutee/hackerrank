@@ -434,6 +434,7 @@ Contains my submission code for HackerRank challenges.
         Shape and Reshape
         Transpose and Flatten
         Concatenate
+        Zeros and Ones
 
 ## regex
 * ### introduction
