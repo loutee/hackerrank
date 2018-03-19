@@ -435,6 +435,7 @@ Contains my submission code for HackerRank challenges.
         Transpose and Flatten
         Concatenate
         Zeros and Ones
+        Eye and Identity
 
 ## regex
 * ### introduction
