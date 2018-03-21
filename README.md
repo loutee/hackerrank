@@ -436,6 +436,7 @@ Contains my submission code for HackerRank challenges.
         Concatenate
         Zeros and Ones
         Eye and Identity
+        Array Mathematics
 
 ## regex
 * ### introduction
