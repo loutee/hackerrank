@@ -437,6 +437,7 @@ Contains my submission code for HackerRank challenges.
         Zeros and Ones
         Eye and Identity
         Array Mathematics
+        Floor, Ciel and Rint
 
 ## regex
 * ### introduction
