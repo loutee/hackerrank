@@ -439,6 +439,7 @@ Contains my submission code for HackerRank challenges.
         Array Mathematics
         Floor, Ciel and Rint
         Sum and Prod
+        Min and Max
 
 ## regex
 * ### introduction
