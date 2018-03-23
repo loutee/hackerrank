@@ -438,6 +438,7 @@ Contains my submission code for HackerRank challenges.
         Eye and Identity
         Array Mathematics
         Floor, Ciel and Rint
+        Sum and Prod
 
 ## regex
 * ### introduction
