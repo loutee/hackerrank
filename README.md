@@ -440,6 +440,7 @@ Contains my submission code for HackerRank challenges.
         Floor, Ciel and Rint
         Sum and Prod
         Min and Max
+        Mean, Var, and Std
 
 ## regex
 * ### introduction
