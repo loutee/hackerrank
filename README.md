@@ -441,6 +441,7 @@ Contains my submission code for HackerRank challenges.
         Sum and Prod
         Min and Max
         Mean, Var, and Std
+        Dot and Cross
 
 ## regex
 * ### introduction
