@@ -442,6 +442,7 @@ Contains my submission code for HackerRank challenges.
         Min and Max
         Mean, Var, and Std
         Dot and Cross
+        Inner and Outer
 
 ## regex
 * ### introduction
