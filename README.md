@@ -443,6 +443,7 @@ Contains my submission code for HackerRank challenges.
         Mean, Var, and Std
         Dot and Cross
         Inner and Outer
+        Polynomials
 
 ## regex
 * ### introduction
