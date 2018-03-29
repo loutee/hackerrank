@@ -444,6 +444,7 @@ Contains my submission code for HackerRank challenges.
         Dot and Cross
         Inner and Outer
         Polynomials
+        Linear Algebra
 
 ## regex
 * ### introduction
