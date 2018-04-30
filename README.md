@@ -86,6 +86,7 @@ Contains my submission code for HackerRank challenges.
 
         Super Reduced String
         CamelCase
+        Strong Password
         Two Characters
         Caesar Cipher
         Mars Exploration
